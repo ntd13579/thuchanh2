@@ -10,4 +10,6 @@ int main()
 }
 
 void newBranchFunction() {
+	cout<<"Day la new branch";
+
 }
